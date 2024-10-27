@@ -1,2 +1,1 @@
-print("Hola mundo")
-print("Probando cambios")
+#clase abstracta, metodo calcular rango abstracto. 
