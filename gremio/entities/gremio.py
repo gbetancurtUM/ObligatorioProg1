@@ -1,8 +1,0 @@
-#constructor
-#registrar_aventurero
-#registrar_mision
-#buscar_mision_por_nombre
-#buscar_mision_por_id
-#buscar_aventurero_por_id
-#validar_rango_aventurero_para_mision
-#id_unico
